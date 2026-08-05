@@ -1,0 +1,26 @@
+company,ticker,fiscal_year,fiscal_year_end,revenue_measure,revenue_usd_millions,source
+Microsoft,MSFT,2022,2022-06-30,Microsoft Cloud revenue,91400,Microsoft FY2024 10-K (prior-year comparison)
+Microsoft,MSFT,2023,2023-06-30,Microsoft Cloud revenue,111600,Microsoft FY2024 10-K (prior-year comparison)
+Microsoft,MSFT,2024,2024-06-30,Microsoft Cloud revenue,137700,Microsoft FY2025 10-K (prior-year comparison)
+Microsoft,MSFT,2025,2025-06-30,Microsoft Cloud revenue,168900,Microsoft FY2026 10-K (prior-year comparison)
+Microsoft,MSFT,2026,2026-06-30,Microsoft Cloud revenue,214400,Microsoft FY2026 10-K
+Alphabet,GOOGL,2021,2021-12-31,Google Cloud segment revenue,19210,Alphabet FY2021 10-K
+Alphabet,GOOGL,2022,2022-12-31,Google Cloud segment revenue,26310,Derived: FY2021 + stated $7.1B increase (Alphabet FY2022 10-K)
+Alphabet,GOOGL,2023,2023-12-31,Google Cloud segment revenue,33130,Derived: FY2024 figure minus stated $10.1B increase (Alphabet FY2024 10-K)
+Alphabet,GOOGL,2024,2024-12-31,Google Cloud segment revenue,43230,Alphabet FY2024 10-K / bullfincher.io
+Alphabet,GOOGL,2025,2025-12-31,Google Cloud segment revenue,58710,Alphabet FY2025 10-K / bullfincher.io
+Amazon,AMZN,2021,2021-12-31,AWS segment net sales,62202,Amazon FY2023 10-K (segment table)
+Amazon,AMZN,2022,2022-12-31,AWS segment net sales,80096,Amazon FY2023 10-K (segment table)
+Amazon,AMZN,2023,2023-12-31,AWS segment net sales,90757,Amazon FY2023 10-K (segment table)
+Amazon,AMZN,2024,2024-12-31,AWS segment net sales,107560,Amazon FY2024 earnings release / electroiq.com aggregation
+Amazon,AMZN,2025,2025-12-31,AWS segment net sales,128700,Amazon FY2025 earnings release (Feb 2026) / Axis Intelligence aggregation
+Meta,META,2021,2021-12-31,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),117930,Meta FY2024 earnings release (prior-year series) / wallstreetzen.com
+Meta,META,2022,2022-12-31,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),116610,Meta FY2024 earnings release (prior-year series) / wallstreetzen.com
+Meta,META,2023,2023-12-31,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),134900,Meta FY2024 earnings release
+Meta,META,2024,2024-12-31,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),164500,Meta FY2024 earnings release
+Meta,META,2025,2025-12-31,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),200970,Meta FY2025 earnings release / stockanalysis.com
+Oracle,ORCL,2022,2022-05-31,Total revenue,42440,Oracle FY2023 10-K (segment table)
+Oracle,ORCL,2023,2023-05-31,Total revenue,49954,Oracle FY2023 10-K (segment table)
+Oracle,ORCL,2024,2024-05-31,Total revenue,52960,Oracle FY2024 earnings release
+Oracle,ORCL,2025,2025-05-31,Total revenue,57400,Oracle FY2025 Q4/full-year earnings release
+Oracle,ORCL,2026,2026-05-31,Total revenue,67400,Oracle FY2026 Q4/full-year earnings release

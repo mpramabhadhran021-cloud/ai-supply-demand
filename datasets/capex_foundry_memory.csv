@@ -1,0 +1,10 @@
+company,ticker,fiscal_year,fiscal_year_end,capex_usd_millions,source
+TSMC,TSM,2021,2021-12-31,30000,TSMC investor call/TrendForce
+TSMC,TSM,2022,2022-12-31,36290,TSMC 2022 Annual Report
+TSMC,TSM,2023,2023-12-31,30450,TrendForce (referencing company guidance/actual)
+TSMC,TSM,2024,2024-12-31,29954,financecharts.com aggregation of SEC filings
+TSMC,TSM,2025,2025-12-31,40900,TSMC Q4 2025 earnings call (CITIC SEC research note)
+Micron,MU,2022,2022-08-31,12067,stock-analysis-on.net/SEC 10-K
+Micron,MU,2023,2023-08-31,7676,stock-analysis-on.net/SEC 10-K
+Micron,MU,2024,2024-08-31,8386,stock-analysis-on.net/SEC 10-K
+Micron,MU,2025,2025-08-31,13800,Micron Q4 FY2025 earnings release

@@ -1,0 +1,6 @@
+company,ticker,quarter_end,capex_usd_millions,aws_revenue_usd_millions,source
+Amazon,AMZN,2025-06-30,32100,NA,Amazon Q2 2025 earnings release (capex only; AWS revenue not separately captured this pass)
+Amazon,AMZN,2025-09-30,34200,33000,Futurum Group / CIO Dive coverage of Amazon Q3 2025 earnings
+Amazon,AMZN,2025-12-31,41900,35600,Amazon Q4 2025 earnings release (capex derived: FY2025 total minus YTD-through-Q3)
+Amazon,AMZN,2026-03-31,44203,37600,Amazon Q1 2026 earnings release / macrotrends
+Amazon,AMZN,2026-06-30,54200,42200,Amazon Q2 2026 earnings release (CNBC)

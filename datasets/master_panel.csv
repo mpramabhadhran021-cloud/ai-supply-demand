@@ -1,0 +1,78 @@
+company,ticker,fiscal_year,fiscal_year_end,role,metric,value_usd_millions,source
+AMD,AMD,2023,2023-12-31,demand,Data Center segment revenue,6500,Derived from FY2024 press release stated YoY growth (94%; approximate)
+AMD,AMD,2024,2024-12-31,demand,Data Center segment revenue,12600,AMD Q4 FY2024 earnings release (SEC 8-K)
+Alphabet,GOOGL,2021,2021-12-31,demand,Google Cloud segment revenue,19210,Alphabet FY2021 10-K
+Alphabet,GOOGL,2021,2021-12-31,supply,Capital expenditures,24640,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2022,2022-12-31,demand,Google Cloud segment revenue,26310,Derived: FY2021 + stated $7.1B increase (Alphabet FY2022 10-K)
+Alphabet,GOOGL,2022,2022-12-31,supply,Capital expenditures,31485,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2023,2023-12-31,demand,Google Cloud segment revenue,33130,Derived: FY2024 figure minus stated $10.1B increase (Alphabet FY2024 10-K)
+Alphabet,GOOGL,2023,2023-12-31,supply,Capital expenditures,32251,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2024,2024-12-31,demand,Google Cloud segment revenue,43230,Alphabet FY2024 10-K / bullfincher.io
+Alphabet,GOOGL,2024,2024-12-31,supply,Capital expenditures,52535,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2025,2025-12-31,demand,Google Cloud segment revenue,58710,Alphabet FY2025 10-K / bullfincher.io
+Alphabet,GOOGL,2025,2025-12-31,supply,Capital expenditures,91447,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2021,2021-12-31,demand,AWS segment net sales,62202,Amazon FY2023 10-K (segment table)
+Amazon,AMZN,2021,2021-12-31,supply,Capital expenditures,61053,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2022,2022-12-31,demand,AWS segment net sales,80096,Amazon FY2023 10-K (segment table)
+Amazon,AMZN,2022,2022-12-31,supply,Capital expenditures,63645,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2023,2023-12-31,demand,AWS segment net sales,90757,Amazon FY2023 10-K (segment table)
+Amazon,AMZN,2023,2023-12-31,supply,Capital expenditures,52729,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2024,2024-12-31,demand,AWS segment net sales,107560,Amazon FY2024 earnings release / electroiq.com aggregation
+Amazon,AMZN,2024,2024-12-31,supply,Capital expenditures,82999,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2025,2025-12-31,demand,AWS segment net sales,128700,Amazon FY2025 earnings release (Feb 2026) / Axis Intelligence aggregation
+Amazon,AMZN,2025,2025-12-31,supply,Capital expenditures,131819,stockanalysis.com/SEC 10-K
+Broadcom,AVGO,2024,2024-11-03,demand,AI semiconductor revenue,12200,Broadcom Q4 FY2024 earnings release
+Broadcom,AVGO,2025,2025-11-02,demand,AI semiconductor revenue,20200,Sum of quarterly AI revenue disclosed in FY2025 earnings releases (approximate)
+Meta,META,2021,2021-12-31,demand,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),117930,Meta FY2024 earnings release (prior-year series) / wallstreetzen.com
+Meta,META,2021,2021-12-31,supply,Capital expenditures,18690,stockanalysis.com/SEC 10-K
+Meta,META,2022,2022-12-31,demand,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),116610,Meta FY2024 earnings release (prior-year series) / wallstreetzen.com
+Meta,META,2022,2022-12-31,supply,Capital expenditures,31186,stockanalysis.com/SEC 10-K
+Meta,META,2023,2023-12-31,demand,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),134900,Meta FY2024 earnings release
+Meta,META,2023,2023-12-31,supply,Capital expenditures,27045,stockanalysis.com/SEC 10-K
+Meta,META,2024,2024-12-31,demand,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),164500,Meta FY2024 earnings release
+Meta,META,2024,2024-12-31,supply,Capital expenditures,37256,stockanalysis.com/SEC 10-K
+Meta,META,2025,2025-12-31,demand,Total revenue (weak AI-demand proxy - no separate cloud/AI segment),200970,Meta FY2025 earnings release / stockanalysis.com
+Meta,META,2025,2025-12-31,supply,Capital expenditures,69691,stockanalysis.com/SEC 10-K
+Micron,MU,2022,2022-08-31,supply,Capital expenditures,12067,stock-analysis-on.net/SEC 10-K
+Micron,MU,2023,2023-08-31,demand,Total revenue,15540,Micron FY2024 Q4 earnings release (prior-year comparison)
+Micron,MU,2023,2023-08-31,supply,Capital expenditures,7676,stock-analysis-on.net/SEC 10-K
+Micron,MU,2024,2024-08-31,demand,Total revenue,25110,Micron FY2024 Q4 earnings release
+Micron,MU,2024,2024-08-31,supply,Capital expenditures,8386,stock-analysis-on.net/SEC 10-K
+Micron,MU,2025,2025-08-31,demand,Total revenue,37400,Micron FY2025 Q4 earnings release
+Micron,MU,2025,2025-08-31,supply,Capital expenditures,13800,Micron Q4 FY2025 earnings release
+Microsoft,MSFT,2021,2021-06-30,supply,Capital expenditures,20622,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2022,2022-06-30,demand,Microsoft Cloud revenue,91400,Microsoft FY2024 10-K (prior-year comparison)
+Microsoft,MSFT,2022,2022-06-30,supply,Capital expenditures,23886,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2023,2023-06-30,demand,Microsoft Cloud revenue,111600,Microsoft FY2024 10-K (prior-year comparison)
+Microsoft,MSFT,2023,2023-06-30,supply,Capital expenditures,28107,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2024,2024-06-30,demand,Microsoft Cloud revenue,137700,Microsoft FY2025 10-K (prior-year comparison)
+Microsoft,MSFT,2024,2024-06-30,supply,Capital expenditures,44477,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2025,2025-06-30,demand,Microsoft Cloud revenue,168900,Microsoft FY2026 10-K (prior-year comparison)
+Microsoft,MSFT,2025,2025-06-30,supply,Capital expenditures,64551,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2026,2026-06-30,demand,Microsoft Cloud revenue,214400,Microsoft FY2026 10-K
+Microsoft,MSFT,2026,2026-06-30,supply,Capital expenditures,115948,stockanalysis.com/SEC 10-K
+Nvidia,NVDA,2022,2022-01-30,demand,Data Center segment revenue,10600,Nvidia FY2022 proxy statement (DEF 14A)
+Nvidia,NVDA,2023,2023-01-29,demand,Data Center segment revenue,15005,Derived from FY2024 press release stated YoY growth (217%)
+Nvidia,NVDA,2024,2024-01-28,demand,Data Center segment revenue,47500,Nvidia Q4 FY2024 earnings release
+Nvidia,NVDA,2025,2025-01-26,demand,Data Center segment revenue,115190,Nvidia FY2025 10-K / bullfincher.io
+Nvidia,NVDA,2026,2026-01-25,demand,Data Center segment revenue,193740,Nvidia Q4 FY2026 earnings release
+Oracle,ORCL,2022,2022-05-31,demand,Total revenue,42440,Oracle FY2023 10-K (segment table)
+Oracle,ORCL,2022,2022-05-31,supply,Capital expenditures,4511,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2023,2023-05-31,demand,Total revenue,49954,Oracle FY2023 10-K (segment table)
+Oracle,ORCL,2023,2023-05-31,supply,Capital expenditures,8695,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2024,2024-05-31,demand,Total revenue,52960,Oracle FY2024 earnings release
+Oracle,ORCL,2024,2024-05-31,supply,Capital expenditures,6866,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2025,2025-05-31,demand,Total revenue,57400,Oracle FY2025 Q4/full-year earnings release
+Oracle,ORCL,2025,2025-05-31,supply,Capital expenditures,21215,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2026,2026-05-31,demand,Total revenue,67400,Oracle FY2026 Q4/full-year earnings release
+Oracle,ORCL,2026,2026-05-31,supply,Capital expenditures,55663,stockanalysis.com/SEC 10-K
+TSMC,TSM,2021,2021-12-31,demand,Total revenue,56820,TSMC January 2022 monthly revenue report
+TSMC,TSM,2021,2021-12-31,supply,Capital expenditures,30000,TSMC investor call/TrendForce
+TSMC,TSM,2022,2022-12-31,demand,Total revenue,73740,TSMC 2022 Annual Report / wallstreetzen.com
+TSMC,TSM,2022,2022-12-31,supply,Capital expenditures,36290,TSMC 2022 Annual Report
+TSMC,TSM,2023,2023-12-31,demand,Total revenue,69300,TSMC 2024 Annual Report (stated 2023 comparison figure)
+TSMC,TSM,2023,2023-12-31,supply,Capital expenditures,30450,TrendForce (referencing company guidance/actual)
+TSMC,TSM,2024,2024-12-31,demand,Total revenue,90080,TSMC 2024 Annual Report
+TSMC,TSM,2024,2024-12-31,supply,Capital expenditures,29954,financecharts.com aggregation of SEC filings
+TSMC,TSM,2025,2025-12-31,demand,Total revenue,121400,macrotrends.net aggregation of company filings
+TSMC,TSM,2025,2025-12-31,supply,Capital expenditures,40900,TSMC Q4 2025 earnings call (CITIC SEC research note)

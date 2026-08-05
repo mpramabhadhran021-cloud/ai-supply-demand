@@ -1,0 +1,27 @@
+company,ticker,fiscal_year,fiscal_year_end,capex_usd_millions,source
+Microsoft,MSFT,2021,2021-06-30,20622,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2022,2022-06-30,23886,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2023,2023-06-30,28107,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2024,2024-06-30,44477,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2025,2025-06-30,64551,stockanalysis.com/SEC 10-K
+Microsoft,MSFT,2026,2026-06-30,115948,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2021,2021-12-31,24640,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2022,2022-12-31,31485,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2023,2023-12-31,32251,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2024,2024-12-31,52535,stockanalysis.com/SEC 10-K
+Alphabet,GOOGL,2025,2025-12-31,91447,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2021,2021-12-31,61053,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2022,2022-12-31,63645,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2023,2023-12-31,52729,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2024,2024-12-31,82999,stockanalysis.com/SEC 10-K
+Amazon,AMZN,2025,2025-12-31,131819,stockanalysis.com/SEC 10-K
+Meta,META,2021,2021-12-31,18690,stockanalysis.com/SEC 10-K
+Meta,META,2022,2022-12-31,31186,stockanalysis.com/SEC 10-K
+Meta,META,2023,2023-12-31,27045,stockanalysis.com/SEC 10-K
+Meta,META,2024,2024-12-31,37256,stockanalysis.com/SEC 10-K
+Meta,META,2025,2025-12-31,69691,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2022,2022-05-31,4511,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2023,2023-05-31,8695,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2024,2024-05-31,6866,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2025,2025-05-31,21215,stockanalysis.com/SEC 10-K
+Oracle,ORCL,2026,2026-05-31,55663,stockanalysis.com/SEC 10-K

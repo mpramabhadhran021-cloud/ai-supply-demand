@@ -1,0 +1,18 @@
+company,ticker,fiscal_year,fiscal_year_end,revenue_measure,revenue_usd_millions,source
+Nvidia,NVDA,2022,2022-01-30,Data Center segment revenue,10600,Nvidia FY2022 proxy statement (DEF 14A)
+Nvidia,NVDA,2023,2023-01-29,Data Center segment revenue,15005,Derived from FY2024 press release stated YoY growth (217%)
+Nvidia,NVDA,2024,2024-01-28,Data Center segment revenue,47500,Nvidia Q4 FY2024 earnings release
+Nvidia,NVDA,2025,2025-01-26,Data Center segment revenue,115190,Nvidia FY2025 10-K / bullfincher.io
+Nvidia,NVDA,2026,2026-01-25,Data Center segment revenue,193740,Nvidia Q4 FY2026 earnings release
+AMD,AMD,2023,2023-12-31,Data Center segment revenue,6500,Derived from FY2024 press release stated YoY growth (94%; approximate)
+AMD,AMD,2024,2024-12-31,Data Center segment revenue,12600,AMD Q4 FY2024 earnings release (SEC 8-K)
+Broadcom,AVGO,2024,2024-11-03,AI semiconductor revenue,12200,Broadcom Q4 FY2024 earnings release
+Broadcom,AVGO,2025,2025-11-02,AI semiconductor revenue,20200,Sum of quarterly AI revenue disclosed in FY2025 earnings releases (approximate)
+TSMC,TSM,2021,2021-12-31,Total revenue,56820,TSMC January 2022 monthly revenue report
+TSMC,TSM,2022,2022-12-31,Total revenue,73740,TSMC 2022 Annual Report / wallstreetzen.com
+TSMC,TSM,2023,2023-12-31,Total revenue,69300,TSMC 2024 Annual Report (stated 2023 comparison figure)
+TSMC,TSM,2024,2024-12-31,Total revenue,90080,TSMC 2024 Annual Report
+TSMC,TSM,2025,2025-12-31,Total revenue,121400,macrotrends.net aggregation of company filings
+Micron,MU,2023,2023-08-31,Total revenue,15540,Micron FY2024 Q4 earnings release (prior-year comparison)
+Micron,MU,2024,2024-08-31,Total revenue,25110,Micron FY2024 Q4 earnings release
+Micron,MU,2025,2025-08-31,Total revenue,37400,Micron FY2025 Q4 earnings release

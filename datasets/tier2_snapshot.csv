@@ -1,0 +1,18 @@
+company,subsector,snapshot_metric,period,value,unit,source
+Intel,Semiconductor designer/manufacturer,Data Center and AI segment revenue,Q2 2026,6.3,USD billions (+59% YoY),Intel Q2 FY2026 earnings release
+Intel,Semiconductor designer/manufacturer,Full-year capex guidance,2026,20,USD billions (raised guidance),Intel Q2 FY2026 earnings call (CFO David Zinsner)
+Qualcomm,Semiconductor designer,AI data center revenue,2026,Not yet material,qualitative - new entrant,Qualcomm 2026 Investor Day / EE Times
+Marvell,Semiconductor designer,Data center revenue guidance,FY2027-FY2028,12.7 to ~15,USD billions (guidance),Company guidance via Reuters (March 2026)
+Arm,Semiconductor designer (IP licensing),Total revenue,FY2026 (ended Mar 2026),4.92,USD billions (+23% YoY),Arm FY2026 earnings release
+MediaTek,Semiconductor designer,Total revenue,2025,19,USD billions (approx; NT$ translated),MediaTek 2025 annual results / 650 Group
+MediaTek,Semiconductor designer,AI ASIC revenue target,2026,~1 (to several billion by 2027),USD billions (company target),MediaTek Analyst Day 2026
+Samsung,Memory/foundry manufacturer,Quarterly revenue,Q4 2025,~63,USD billions (93.8 trillion KRW),Samsung Q4 2025 preliminary results
+Samsung,Memory/foundry manufacturer,HBM4/semiconductor investment,2026,73,USD billions (announced),Industry press (June 2026)
+SK hynix,Memory manufacturer,Quarterly revenue,Q1 2026,35.55,USD billions (+~3x YoY),SK hynix Q1 2026 earnings / CNBC
+SK hynix,Memory manufacturer,HBM market share,Q1 2026,56.4,percent (IDC),SK hynix Form 424B4 (SEC filing)
+CoreWeave,Cloud/GPU infrastructure,2026 capex,2026,31 to 35,USD billions (estimated),Industry analysis (Chris Zeoli / datagravity.dev)
+CoreWeave,Cloud/GPU infrastructure,Revenue growth,2026,106 to 346,percent YoY (estimated range across sources),Industry analysis (Chris Zeoli / datagravity.dev)
+Dell,Infrastructure/server OEM,Operating margin on AI server business,2026,~11,percent (illustrative),Industry analysis (Chris Zeoli / datagravity.dev)
+Supermicro,Infrastructure/server OEM,Gross margin on AI server business,2026,~8,percent (illustrative),Industry analysis (Chris Zeoli / datagravity.dev)
+Arista Networks,Networking,Gross margin range (AI networking),2026,62 to 77,percent (illustrative; shared with Broadcom networking),Industry analysis (Chris Zeoli / datagravity.dev)
+Alibaba/Tencent/ByteDance,International cloud (China),H200 chip export clearance,2026,75000,units per customer cap,US BIS licensing change (Jan 2026) per industry analysis
