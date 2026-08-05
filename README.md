@@ -30,7 +30,7 @@ Full quarterly panels for all 10 companies were not obtained (inconsistent aggre
 ## Structure
 
 ```
-01_ai_supply_creates_demand.ipynb   # primary notebook — full workflow
+ai_supply_creates_demand.ipynb   # primary notebook — full workflow
 datasets/                            # raw and cleaned data
 figures/                             # exported charts
 references/                          # source documentation / citations
@@ -51,5 +51,5 @@ Descriptive statistics, EDA, Pearson/Spearman correlation, a bidirectional cross
 
 ```
 pip install -r requirements.txt
-jupyter notebook 01_ai_supply_creates_demand.ipynb
+jupyter notebook ai_supply_creates_demand.ipynb
 ```

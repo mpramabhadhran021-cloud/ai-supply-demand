@@ -3,9 +3,9 @@ AMD,AMD,2023,2023-12-31,demand,Data Center segment revenue,6500,Derived from FY2
 AMD,AMD,2024,2024-12-31,demand,Data Center segment revenue,12600,AMD Q4 FY2024 earnings release (SEC 8-K)
 Alphabet,GOOGL,2021,2021-12-31,demand,Google Cloud segment revenue,19210,Alphabet FY2021 10-K
 Alphabet,GOOGL,2021,2021-12-31,supply,Capital expenditures,24640,stockanalysis.com/SEC 10-K
-Alphabet,GOOGL,2022,2022-12-31,demand,Google Cloud segment revenue,26310,Derived: FY2021 + stated $7.1B increase (Alphabet FY2022 10-K)
+Alphabet,GOOGL,2022,2022-12-31,demand,Google Cloud segment revenue,26310,Derived: FY2021 + stated USD 7.1B increase (Alphabet FY2022 10-K)
 Alphabet,GOOGL,2022,2022-12-31,supply,Capital expenditures,31485,stockanalysis.com/SEC 10-K
-Alphabet,GOOGL,2023,2023-12-31,demand,Google Cloud segment revenue,33130,Derived: FY2024 figure minus stated $10.1B increase (Alphabet FY2024 10-K)
+Alphabet,GOOGL,2023,2023-12-31,demand,Google Cloud segment revenue,33130,Derived: FY2024 figure minus stated USD 10.1B increase (Alphabet FY2024 10-K)
 Alphabet,GOOGL,2023,2023-12-31,supply,Capital expenditures,32251,stockanalysis.com/SEC 10-K
 Alphabet,GOOGL,2024,2024-12-31,demand,Google Cloud segment revenue,43230,Alphabet FY2024 10-K / bullfincher.io
 Alphabet,GOOGL,2024,2024-12-31,supply,Capital expenditures,52535,stockanalysis.com/SEC 10-K
